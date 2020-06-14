@@ -1,0 +1,8 @@
+migrations/
+__pycache__/
+logs/
+upload/
+db.sqlite3
+.idea/
+venv/
+.DS_Store
